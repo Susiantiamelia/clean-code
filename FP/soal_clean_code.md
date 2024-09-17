@@ -4,6 +4,7 @@ Kebutuhan Aplikasi:
 
 Aplikasi harus bisa menambah, mengedit, menghapus, dan menandai kegiatan sebagai selesai.
 Setiap kegiatan memiliki:
+
     - ID (dibuat otomatis)
     - Judul kegiatan
     - Tanggal kegiatan
