@@ -1,4 +1,4 @@
-Kamu diminta untuk mengimplementasikan sebuah aplikasi sederhana untuk penjadwalan kegiatan (activity scheduler) dengan menerapkan prinsip clean code. Pastikan kode yang kamu tulis mudah dipahami, modular, dan mengikuti prinsip clean code seperti Single Responsibility Principle (SRP) dan DRY (Don't Repeat Yourself).
+Kamu diminta untuk mengimplementasikan sebuah aplikasi sederhana untuk penjadwalan kegiatan (activity scheduler) dengan menerapkan prinsip clean code. Pastikan kode yang kamu tulis mudah dipahami, modular, dan mengikuti prinsip clean code seperti **Single Responsibility Principle (SRP)** dan **DRY (Don't Repeat Yourself)**.
 
 Kebutuhan Aplikasi:
 
