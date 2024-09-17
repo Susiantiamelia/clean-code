@@ -12,26 +12,26 @@ Setiap kegiatan memiliki:
     - Pastikan aplikasi memberikan pesan log setiap kali ada perubahan pada data kegiatan.
 
 Fitur yang Harus Diimplementasikan:
-- Menambah Kegiatan:
+- **Menambah Kegiatan**:
 
   Fungsi ini menerima input judul dan tanggal kegiatan.
   Jika input tidak valid (judul atau tanggal kosong), tampilkan error.
   
-- Mengedit Kegiatan:
+- **Mengedit Kegiatan**:
 
   Fungsi ini menerima ID kegiatan yang ingin diubah, beserta judul dan/atau tanggal baru.
   Jika ID kegiatan tidak ditemukan, tampilkan pesan error.
   
-- Menghapus Kegiatan:
+- **Menghapus Kegiatan**:
 
   Fungsi ini menerima ID kegiatan yang ingin dihapus.
   Jika ID kegiatan tidak ditemukan, tampilkan pesan error.
   
-- Menandai Kegiatan Sebagai Selesai:
+- **Menandai Kegiatan Sebagai Selesai**:
 
   Fungsi ini menerima ID kegiatan yang ingin ditandai selesai.
   Jika ID kegiatan tidak ditemukan, tampilkan pesan error.
   
-- Log Aktivitas:
+- **Log Aktivitas**:
 
-Setiap kali kegiatan ditambah, diedit, dihapus, atau ditandai selesai, tampilkan pesan di log (misalnya: "Kegiatan 'Meeting' ditambahkan").
+    Setiap kali kegiatan ditambah, diedit, dihapus, atau ditandai selesai, tampilkan pesan di log (misalnya: "Kegiatan 'Meeting' ditambahkan").
